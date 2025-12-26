@@ -9,7 +9,7 @@ const StartGame = ({ toggle }) => {
       
       {/* Image Section */}
       <div className="w-full max-w-[400px] lg:max-w-none">
-        <img src="/images/dices.png" alt="dices image" className="w-full h-auto" />
+        <img src="./images/dices.png" alt="dices image" className="w-full h-auto" />
       </div>
       
       {/* Content Section */}

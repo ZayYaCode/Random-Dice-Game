@@ -19,7 +19,6 @@ An interactive and responsive Dice Game built with React.js and Tailwind CSS v4.
 - **Icons/Images:** Custom Dice Assets
 
 ## You can test
-
 https://github.com/ZayYaCode/Random-Dice-Game.git
 
 ## 💻 Getting Started
